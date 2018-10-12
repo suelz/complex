@@ -8,6 +8,8 @@ def main():
    print(x + y)
    print(x - y)
    print(x * y)
+   print(x / y)
+   print(abs(x))
 
 
    
